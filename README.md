@@ -1,1 +1,1 @@
-about git
+Rekruitasi MBC 
